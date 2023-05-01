@@ -1,2 +1,2 @@
 # Advanced-Topics-Machine-Learning
-Repository with challenge codes
+Repository with code challenges
